@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/schulflur456_3\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur123blau\/map.json "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.3.4385",
  "tileheight":32,
  "tilesets":[
         {
@@ -1067,6 +1067,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.2,
  "width":94
 }
