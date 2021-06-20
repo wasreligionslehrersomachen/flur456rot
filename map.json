@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12307\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45625\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12308\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45626\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12309\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45627\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12310\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45628\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -199,7 +199,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12311\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45629\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/12312\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/45630\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur456blau\/map.json "
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
